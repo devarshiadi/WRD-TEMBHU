@@ -1,0 +1,5 @@
+{
+  "name": "WRD Tembhu LIS IoT Dashboard",
+  "description": "A comprehensive, real-time IoT dashboard for monitoring the Tembhu Lift Irrigation Scheme (LIS), designed for the Water Resources Department (WRD). It provides detailed insights into flowmeter data, API health, water entitlement, and system compliance.",
+  "requestFramePermissions": []
+}
